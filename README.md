@@ -150,7 +150,7 @@
 	<div class="container">
 		<div class="device-list">
 			   <div class="device">
-				   <div class="device-img"><img src="FB.png" alt="Sony Alpha A7 Mark IV"></div>
+				   <div class="device-img"><img src="" alt="Sony Alpha A7 Mark IV"></div>
 				   <div class="device-info">
 					   <div class="device-title">Sony Alpha A7 Mark IV</div>
 					   <div class="device-price">500.000 VNĐ/ngày</div>
