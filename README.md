@@ -109,7 +109,7 @@
 	<header style="padding: 20px 0; background: #111; box-shadow: 0 4px 18px rgba(0,0,0,0.10); margin-bottom: 18px;">
 		<div style="max-width: 900px; margin: 0 auto;">
 			<div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between; padding: 0 20px;">
-				<img src="FW.png" alt="FW.png" style="height: 140px; margin-right: 24px; display: block;">
+				<img src="FB.png" alt="FB.png" style="height: 140px; margin-right: 24px; display: block;">
 				<div style="color: #fff;">
 					<div style="margin-bottom: 8px;">
 						<svg xmlns="http://www.w3.org/2000/svg" class="contact-icon" style="stroke: #fff;" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round">
@@ -150,7 +150,7 @@
 	<div class="container">
 		<div class="device-list">
 			   <div class="device">
-				   <div class="device-img"><img src="FWPNG.png" alt="Sony Alpha A7 Mark IV"></div>
+				   <div class="device-img"><img src="FB.png" alt="Sony Alpha A7 Mark IV"></div>
 				   <div class="device-info">
 					   <div class="device-title">Sony Alpha A7 Mark IV</div>
 					   <div class="device-price">500.000 VNĐ/ngày</div>
