@@ -109,7 +109,7 @@
 	<header style="padding: 20px 0; background: #111; box-shadow: 0 4px 18px rgba(0,0,0,0.10); margin-bottom: 18px;">
 		<div style="max-width: 900px; margin: 0 auto;">
 			<div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between; padding: 0 20px;">
-				<img src="FWPNG.png" alt="FWPNG" style="height: 140px; margin-right: 24px; display: block;">
+				<img src="FW.png" alt="FW" style="height: 140px; margin-right: 24px; display: block;">
 				<div style="color: #fff;">
 					<div style="margin-bottom: 8px;">
 						<svg xmlns="http://www.w3.org/2000/svg" class="contact-icon" style="stroke: #fff;" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round">
