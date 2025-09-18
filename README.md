@@ -161,7 +161,7 @@
 				   <div class="device-img"><img src="RS4.jpg" alt="RS4"></div>
 				   <div class="device-info">
 					   <div class="device-title">DJI Ronin RS4</div>
-					   <div class="device-price">350.000 VNĐ/ngày</div>
+					   <div class="device-price"> VNĐ/ngày</div>
 					   <div class="device-accessory">Phụ kiện: 2 x pin FZ100, 1 x Thẻ nhớ 64G</div>
 				   </div>
 			   </div>
