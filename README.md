@@ -1,10 +1,6 @@
 <!DOCTYPE html>
 <html lang="vi">
 <head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Thiết bị cho thuê</title>
-	<script src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons-react/dist/index.umd.min.js"></script>
 	<style>
 		.contact-icon {
 			stroke-width: 1.5;
@@ -161,7 +157,7 @@
 				   <div class="device-img"><img src="RS4.jpg" alt="RS4"></div>
 				   <div class="device-info">
 					   <div class="device-title">DJI Ronin RS4</div>
-					   <div class="device-price"> VNĐ/ngày</div>
+					   <div class="device-price"> 11VNĐ/ngày</div> 
 					   <div class="device-accessory">Phụ kiện: 2 x pin FZ100, 1 x Thẻ nhớ 64G</div>
 				   </div>
 			   </div>
