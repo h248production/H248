@@ -150,41 +150,41 @@
 	<div class="container">
 		<div class="device-list">
 			   <div class="device">
-				   <div class="device-img"><img src="" alt="Sony Alpha A7 Mark IV"></div>
+				   <div class="device-img"><img src="A6400.jpg" alt="Sony Alpha A6400"></div>
 				   <div class="device-info">
-					   <div class="device-title">Sony Alpha A7 Mark IV</div>
+					   <div class="device-title">Sony Alpha A6400</div>
 					   <div class="device-price">500.000 VNĐ/ngày</div>
 					   <div class="device-accessory">Phụ kiện: 2 x pin FZ100, 1 x Thẻ nhớ 64G</div>
 				   </div>
 			   </div>
 			   <div class="device">
-				   <div class="device-img"><img src="CE881EEA-6E8E-46EC-AC38-2D5ABA394858.jpeg" alt="Sony Alpha A7 Mark III"></div>
+				   <div class="device-img"><img src="RS4.jpg" alt="RS4"></div>
 				   <div class="device-info">
-					   <div class="device-title">Sony Alpha A7 Mark III</div>
+					   <div class="device-title">DJI Ronin RS4</div>
 					   <div class="device-price">350.000 VNĐ/ngày</div>
 					   <div class="device-accessory">Phụ kiện: 2 x pin FZ100, 1 x Thẻ nhớ 64G</div>
 				   </div>
 			   </div>
 			   <div class="device">
-				   <div class="device-img"><img src="DSC04261.JPG" alt="Sony FX30"></div>
+				   <div class="device-img"><img src="18-105mm.jpg" alt="Lens 18-105mm"></div>
 				   <div class="device-info">
-					   <div class="device-title">Máy quay Cinema Sony FX30</div>
+					   <div class="device-title">Lens Sony 18-105mm F4</div>
 					   <div class="device-price">600.000 VNĐ/ngày</div>
 					   <div class="device-accessory">Phụ kiện: 2 x pin FZ100, 1 x Thẻ nhớ 64G</div>
 				   </div>
 			   </div>
 			   <div class="device">
-				   <div class="device-img"><img src="328C79CF-047A-4029-8839-FA5AF6F80723.jpeg" alt="Sony FE 24-70mm GM F2.8"></div>
+				   <div class="device-img"><img src="Comica VM30.webp" alt="Comica VM30"></div>
 				   <div class="device-info">
-					   <div class="device-title">Lens Sony FE 24-70mm GM F2.8</div>
+					   <div class="device-title">Micro Comica VM30</div>
 					   <div class="device-price">300.000 VNĐ/ngày</div>
 					   <div class="device-accessory">Phụ kiện: Filter chống bụi</div>
 				   </div>
 			   </div>
 			   <div class="device">
-				   <div class="device-img"><img src="CE881EEA-6E8E-46EC-AC38-2D5ABA394858.jpeg" alt="Flycam DJI Mini 3 Pro Combo"></div>
+				   <div class="device-img"><img src="Tripod Triopo.webp" alt="Tripod Triopo"></div>
 				   <div class="device-info">
-					   <div class="device-title">Flycam DJI Mini 3 Pro Combo</div>
+					   <div class="device-title">Tripod Triopo</div>
 					   <div class="device-price">500.000 VNĐ/ngày</div>
 					   <div class="device-accessory">Phụ kiện: 3 x pin, 1 x Thẻ nhớ 64G</div>
 				   </div>
