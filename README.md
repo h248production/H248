@@ -280,7 +280,7 @@
 				   <div class="device-info">
 					   <div class="device-title">Sony Alpha A6400</div>
 					   <div class="device-price">300.000 VNĐ/ngày</div>
-					   <div class="device-accessory">Phụ kiện: 2 x pin FZ50, 1 x Thẻ nhớ 64G</div>
+					   <div class="device-accessory">Phụ kiện: 2 x pin FW50, 1 x Thẻ nhớ 64G</div>
 				   </div>
 			   </div>
 			   <div class="device">
