@@ -129,7 +129,6 @@
 				margin-bottom: 6px !important;
 			}
 		}
-
 		@media (max-width: 480px) {
 			.container { 
 				margin: 16px 8px;
