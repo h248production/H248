@@ -1,67 +1,6 @@
 <!DOCTYPE html>
 <html lang="vi">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>H248 Equipment Rental - Cho thuê thiết bị</title>
-<head>
-	<		.container {
-			max-width: 1200px;
-			margin: 40px auto;
-			background: #111;
-			border-radius: 16px;
-			box-shadow: 0 4px 24px rgba(0,0,0,0.2);
-			padding: 32px 24px;
-			position: relative;
-			overflow: hidden;
-		}
-		.container::before {
-			content: '';
-			position: absolute;
-			top: 0;
-			left: 0;
-			width: 100%;
-			height: 4px;
-			background: linear-gradient(to right, #1a1a1a, #333);
-		}
-		h1 {
-			text-align: center;
-			color: #fff;
-			font-size: 2em;
-			margin-bottom: 32px;
-			letter-spacing: 1px;
-		}
-		   .device-list {
-			   display: grid;
-			   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-			   gap: 24px;
-			   padding: 0 8px;
-		   }vice-img {
-			   width: 120px;
-			   height: 90px;
-			   background: #1a1a1a;
-			   border-radius: 8px;
-			   margin-bottom: 0;
-			   margin-right: 16px;
-			   display: flex;
-			   align-items: center;
-			   justify-content: center;
-			   flex-shrink: 0;
-			   overflow: hidden;
-		   }
-		   .device-img img {
-			   width: 100%;
-			   height: 100%;
-			   object-fit: cover;
-			   object-position: center;
-			   border-radius: 8px;
-			   transition: transform 0.3s ease;
-		   }
-		   .device-img:hover img {
-			   transform: scale(1.05);
-		   }name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-	<meta name="theme-color" content="#111111">
-	<title>H248 Equipment Rental - Cho thuê thiết bị</title>
 	<style>
 		.contact-icon {
 			stroke-width: 1.5;
